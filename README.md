@@ -1,5 +1,8 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+### `Screen`
+![screen_r-ezgif com-video-to-gif-converter](https://github.com/ruveydaakbolat/rockPaperScissorsApp/assets/54941922/4553e6da-34d1-44d9-963b-4b107793278a)
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
